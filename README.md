@@ -6,3 +6,6 @@
 
 # Listen
 * [Google Prodcast](https://sre.google/prodcast/)
+
+# Tools
+* [Uptime Calculator](https://uptime.is)
