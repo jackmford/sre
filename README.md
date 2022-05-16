@@ -4,6 +4,7 @@
 * [Enterprise SRE Roadmap](https://static.googleusercontent.com/media/sre.google/en//static/pdf/enterprise-roadmap-to-sre.pdf)
 * [Google SRE Book Updates](https://sre.google/resources/book-update/)
 * [Microsoft Reliability](https://microsoft.github.io/code-with-engineering-playbook/reliability)
+* [Error Budgets and Maintenance Windows](https://cloud.google.com/blog/products/management-tools/sre-error-budgets-and-maintenance-windows)
 
 # Listen
 * [Google Prodcast](https://sre.google/prodcast/)
