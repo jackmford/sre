@@ -10,7 +10,7 @@
 
 # Listen
 * [Google Prodcast](https://sre.google/prodcast/)
-* [Uber SRE Talks](https://eng.uber.com/site-reliability-engineering-talks-feb-2016/)
+* [Uber SRE](https://eng.uber.com/site-reliability-engineering-talks-feb-2016/)
 
 # Tools
 * [Uptime Calculator](https://uptime.is)
