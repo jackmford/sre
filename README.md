@@ -5,6 +5,7 @@
 * [Google SRE Book Updates](https://sre.google/resources/book-update/)
 * [Microsoft Reliability](https://microsoft.github.io/code-with-engineering-playbook/reliability)
 * [Error Budgets and Maintenance Windows](https://cloud.google.com/blog/products/management-tools/sre-error-budgets-and-maintenance-windows)
+* [Uber's On Call Dashboard](https://eng.uber.com/software-engineers-on-call-dashboard/)
 
 # Listen
 * [Google Prodcast](https://sre.google/prodcast/)
