@@ -7,6 +7,7 @@
 * [Error Budgets and Maintenance Windows](https://cloud.google.com/blog/products/management-tools/sre-error-budgets-and-maintenance-windows)
 * [Uber's On Call Dashboard](https://eng.uber.com/software-engineers-on-call-dashboard/)
 * [Incident Metrics](https://static.googleusercontent.com/media/sre.google/en//static/pdf/incident_metrics_in_sre.pdf)
+* [Case Studies](https://sre.google/workbook/slo-engineering-case-studies/)
 
 # Listen
 * [Google Prodcast](https://sre.google/prodcast/)
