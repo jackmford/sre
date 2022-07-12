@@ -3,11 +3,11 @@
 * [Google SRE Workbook](https://sre.google/workbook/table-of-contents/)
 * [Enterprise SRE Roadmap](https://static.googleusercontent.com/media/sre.google/en//static/pdf/enterprise-roadmap-to-sre.pdf)
 * [Google SRE Book Updates](https://sre.google/resources/book-update/)
-* [Microsoft Reliability](https://microsoft.github.io/code-with-engineering-playbook/reliability)
+* [Microsoft's Reliability Playbook](https://microsoft.github.io/code-with-engineering-playbook/reliability)
 * [Error Budgets and Maintenance Windows](https://cloud.google.com/blog/products/management-tools/sre-error-budgets-and-maintenance-windows)
 * [Uber's On Call Dashboard](https://eng.uber.com/software-engineers-on-call-dashboard/)
 * [Incident Metrics](https://static.googleusercontent.com/media/sre.google/en//static/pdf/incident_metrics_in_sre.pdf)
-* [Case Studies](https://sre.google/workbook/slo-engineering-case-studies/)
+* [Google Case Studies](https://sre.google/workbook/slo-engineering-case-studies/)
 * [SRE at Chick-Fil-A](https://medium.com/@cfatechblog/site-reliability-engineering-at-chick-fil-a-17bb7c7df6a7)
 * [Establishing SRE Infrastructure](https://www.infoq.com/articles/scalable-SRE-standardization-feedback/)
 
