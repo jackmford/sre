@@ -18,3 +18,4 @@
 
 # Tools
 * [Uptime Calculator](https://uptime.is)
+* [Prometheus SLO Generator](https://github.com/slok/sloth)
