@@ -10,6 +10,7 @@
 * [Google Case Studies](https://sre.google/workbook/slo-engineering-case-studies/)
 * [SRE at Chick-Fil-A](https://medium.com/@cfatechblog/site-reliability-engineering-at-chick-fil-a-17bb7c7df6a7)
 * [Establishing SRE Infrastructure](https://www.infoq.com/articles/scalable-SRE-standardization-feedback/)
+* [MTTR: Lower isn't always better](https://blog.danslimmon.com/2014/09/03/mttr-lower-isnt-always-better/)
 
 # Listen
 * [Google Prodcast](https://sre.google/prodcast/)
